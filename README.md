@@ -41,4 +41,15 @@ I would like to make understand my diet better and make some necessary changes i
 
 ![Results](Results.png)
 
+Many improvements can be made but I have choose two main ones that I will try to incorporate in my diet in in near future. 
+
+1)Increase calcium intake 
+
+The recommended weekly intake of calcium is 7000 milligrams, whereas my actual intake is only 3669.7 milligrams. To address this deficiency, I plan to incorporate more calcium-rich foods into my diet, particularly dairy products such as milk, cheese, and yogurt.
+
+2)Reduce fat intake 
+
+My weekly intake of total fat currently exceeds the recommended level, with 539.31 grams consumed. To lower this intake, I aim to minimize the consumption of high-fat foods such as olive oil, milk chocolate, and pesto sauce, opting instead for healthier alternatives.
+
+By focusing on increasing calcium intake and reducing fat consumption, I aim to make significant improvements to my diet. These adjustments will not only help me meet the recommended nutritional guidelines but also contribute to better overall health and well-being.
 
